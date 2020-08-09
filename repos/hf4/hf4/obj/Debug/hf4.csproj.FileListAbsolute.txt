@@ -1,0 +1,10 @@
+C:\Users\Dorcs\source\repos\hf4\hf4\bin\Debug\hf4.exe.config
+C:\Users\Dorcs\source\repos\hf4\hf4\bin\Debug\hf4.exe
+C:\Users\Dorcs\source\repos\hf4\hf4\bin\Debug\hf4.pdb
+C:\Users\Dorcs\source\repos\hf4\hf4\obj\Debug\hf4.csprojAssemblyReference.cache
+C:\Users\Dorcs\source\repos\hf4\hf4\obj\Debug\hf4.Form1.resources
+C:\Users\Dorcs\source\repos\hf4\hf4\obj\Debug\hf4.Properties.Resources.resources
+C:\Users\Dorcs\source\repos\hf4\hf4\obj\Debug\hf4.csproj.GenerateResource.cache
+C:\Users\Dorcs\source\repos\hf4\hf4\obj\Debug\hf4.csproj.CoreCompileInputs.cache
+C:\Users\Dorcs\source\repos\hf4\hf4\obj\Debug\hf4.exe
+C:\Users\Dorcs\source\repos\hf4\hf4\obj\Debug\hf4.pdb

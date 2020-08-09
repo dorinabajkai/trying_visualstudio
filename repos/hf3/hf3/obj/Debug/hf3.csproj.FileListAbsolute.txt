@@ -1,0 +1,11 @@
+C:\Users\Dorcs\source\repos\hf3\hf3\obj\Debug\hf3.csprojAssemblyReference.cache
+C:\Users\Dorcs\source\repos\hf3\hf3\obj\Debug\hf3.Form1.resources
+C:\Users\Dorcs\source\repos\hf3\hf3\obj\Debug\hf3.InputDialog.resources
+C:\Users\Dorcs\source\repos\hf3\hf3\obj\Debug\hf3.Properties.Resources.resources
+C:\Users\Dorcs\source\repos\hf3\hf3\obj\Debug\hf3.csproj.GenerateResource.cache
+C:\Users\Dorcs\source\repos\hf3\hf3\obj\Debug\hf3.csproj.CoreCompileInputs.cache
+C:\Users\Dorcs\source\repos\hf3\hf3\bin\Debug\hf3.exe.config
+C:\Users\Dorcs\source\repos\hf3\hf3\bin\Debug\hf3.exe
+C:\Users\Dorcs\source\repos\hf3\hf3\bin\Debug\hf3.pdb
+C:\Users\Dorcs\source\repos\hf3\hf3\obj\Debug\hf3.exe
+C:\Users\Dorcs\source\repos\hf3\hf3\obj\Debug\hf3.pdb

@@ -1,0 +1,13 @@
+C:\Users\Dorcs\source\repos\hf1\hf1\bin\Debug\netcoreapp3.1\hf1.exe
+C:\Users\Dorcs\source\repos\hf1\hf1\bin\Debug\netcoreapp3.1\hf1.deps.json
+C:\Users\Dorcs\source\repos\hf1\hf1\bin\Debug\netcoreapp3.1\hf1.runtimeconfig.json
+C:\Users\Dorcs\source\repos\hf1\hf1\bin\Debug\netcoreapp3.1\hf1.runtimeconfig.dev.json
+C:\Users\Dorcs\source\repos\hf1\hf1\bin\Debug\netcoreapp3.1\hf1.dll
+C:\Users\Dorcs\source\repos\hf1\hf1\bin\Debug\netcoreapp3.1\hf1.pdb
+C:\Users\Dorcs\source\repos\hf1\hf1\obj\Debug\netcoreapp3.1\hf1.csprojAssemblyReference.cache
+C:\Users\Dorcs\source\repos\hf1\hf1\obj\Debug\netcoreapp3.1\hf1.AssemblyInfoInputs.cache
+C:\Users\Dorcs\source\repos\hf1\hf1\obj\Debug\netcoreapp3.1\hf1.AssemblyInfo.cs
+C:\Users\Dorcs\source\repos\hf1\hf1\obj\Debug\netcoreapp3.1\hf1.csproj.CoreCompileInputs.cache
+C:\Users\Dorcs\source\repos\hf1\hf1\obj\Debug\netcoreapp3.1\hf1.dll
+C:\Users\Dorcs\source\repos\hf1\hf1\obj\Debug\netcoreapp3.1\hf1.pdb
+C:\Users\Dorcs\source\repos\hf1\hf1\obj\Debug\netcoreapp3.1\hf1.genruntimeconfig.cache

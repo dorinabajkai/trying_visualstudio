@@ -1,0 +1,15 @@
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\PublicTransport.csprojAssemblyReference.cache
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\PublicTransport.AssemblyInfoInputs.cache
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\PublicTransport.AssemblyInfo.cs
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\bin\Debug\netstandard2.0\PublicTransport.deps.json
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\bin\Debug\netstandard2.0\PublicTransport.dll
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\bin\Debug\netstandard2.0\ref\PublicTransport.dll
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\bin\Debug\netstandard2.0\PublicTransport.pdb
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\PublicTransport.dll
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\ref\PublicTransport.dll
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\PublicTransport.pdb
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\PublicTransport.csproj.CoreCompileInputs.cache
+C:\Users\Dorcs\source\repos\PublicTransport\PublicTransport\PublicTransport\obj\Debug\netstandard2.0\XamlC.stamp

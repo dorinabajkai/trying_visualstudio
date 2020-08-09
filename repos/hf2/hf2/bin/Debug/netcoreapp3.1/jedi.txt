@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<Jedi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Név="Obi-Wan" Midi-chlorian_x0020_szám="15000" />

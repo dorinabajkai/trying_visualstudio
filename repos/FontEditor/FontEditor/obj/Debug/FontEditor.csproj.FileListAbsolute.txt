@@ -1,0 +1,9 @@
+C:\Users\Dorcs\source\repos\FontEditor\FontEditor\bin\Debug\FontEditor.exe.config
+C:\Users\Dorcs\source\repos\FontEditor\FontEditor\bin\Debug\FontEditor.exe
+C:\Users\Dorcs\source\repos\FontEditor\FontEditor\bin\Debug\FontEditor.pdb
+C:\Users\Dorcs\source\repos\FontEditor\FontEditor\obj\Debug\FontEditor.csprojAssemblyReference.cache
+C:\Users\Dorcs\source\repos\FontEditor\FontEditor\obj\Debug\FontEditor.Properties.Resources.resources
+C:\Users\Dorcs\source\repos\FontEditor\FontEditor\obj\Debug\FontEditor.csproj.GenerateResource.cache
+C:\Users\Dorcs\source\repos\FontEditor\FontEditor\obj\Debug\FontEditor.csproj.CoreCompileInputs.cache
+C:\Users\Dorcs\source\repos\FontEditor\FontEditor\obj\Debug\FontEditor.exe
+C:\Users\Dorcs\source\repos\FontEditor\FontEditor\obj\Debug\FontEditor.pdb
